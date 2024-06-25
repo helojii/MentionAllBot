@@ -1,1 +1,1 @@
-bot: python3 bot.py
+$ expo build:web
