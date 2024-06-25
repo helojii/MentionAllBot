@@ -5,6 +5,7 @@ from telethon.tl.types import ChannelParticipantAdmin
 from telethon.tl.types import ChannelParticipantCreator
 from telethon.tl.functions.channels import GetParticipantRequest
 from telethon.errors import UserNotParticipantError
+npm install -g expo-cli
 
 logging.basicConfig(
     level=logging.INFO,
